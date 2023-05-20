@@ -16,6 +16,9 @@ The data went through a series of processing steps to prepare it for analysis an
 
 3. **Analysis:** Various analytical techniques were applied to the cleaned dataset to identify the most commonly used names. The analysis focused on aggregating the data by year, ethnicity, and gender and determining the frequency of occurrence for each name within these categories.
 
+![Architecture](ar_1.png)
+![Architecture](ar_2.png)
+
 ## Star Model Diagram
 
 ![Star Model Diagram](DBL_Names-1.png)
