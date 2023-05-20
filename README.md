@@ -1,4 +1,4 @@
-# Data Project README
+# Popular EUA's names README
 ![Image Caption](babieslogo.png)
 
 This repository contains a data project focused on analyzing and visualizing the most commonly used names in the United States of America (🇺🇸 USA) from 2011 to 2019. The project involves scraping, cleaning, and analyzing a database and creating interactive Tableau dashboards to present the findings. The database is organized by year, ethnicity, name, and gender.
