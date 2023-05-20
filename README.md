@@ -16,6 +16,10 @@ The data went through a series of processing steps to prepare it for analysis an
 
 3. **Analysis:** Various analytical techniques were applied to the cleaned dataset to identify the most commonly used names. The analysis focused on aggregating the data by year, ethnicity, and gender and determining the frequency of occurrence for each name within these categories.
 
+## Star Model Diagram
+
+![Star Model Diagram](Baby's name.png)
+
 ## Tableau Dashboards
 
 The main outcome of this project is a collection of interactive Tableau dashboards that allow users to explore and visualize the most popular names used in the USA from 2011 to 2019. The dashboards provide insights into the most common names for each gender and ethnicity over the years.
