@@ -5,7 +5,7 @@ This repository contains a data project focused on analyzing and visualizing the
 
 ## Data Sources
 
-The data used in this project was collected from multiple sources, including public records and official databases. The information includes the most popular names given to newborns in the USA between 2011 and 2019. The dataset is divided into various categories, including year, ethnicity, name, and gender. The specific sources used for data collection are outlined in the `data_sources.md` file.
+The data used in this project was collected from multiple sources, including public records and official databases. The information includes the most popular names given to newborns in the USA between 2011 and 2019. The dataset is divided into various categories, including year, ethnicity, name, and gender.
 
 ## Data Processing
 
@@ -34,23 +34,12 @@ To access and explore the dashboards, please follow these steps:
 
 2. Clone or download this repository to your computer.
 
-3. Open Tableau Desktop or Tableau Public and import the provided dataset (`names_dataset.csv`).
+3. Open Tableau Desktop or Tableau Public and import the provided dataset (`Popular_Names_EUA.csv`).
 
 4. Load the dataset into Tableau and explore the various worksheets and dashboards created.
 
 5. Interact with the dashboards to filter the data by year, ethnicity, and gender and observe the trends and popularity of names over time.
 
-## Repository Structure
-
-The repository is structured as follows:
-
-- `data/`: Contains the raw and cleaned datasets used in the project.
-  - `names_dataset_raw.csv`: The original scraped dataset before cleaning.
-  - `names_dataset_cleaned.csv`: The cleaned dataset ready for analysis.
-- `dashboards/`: Includes the Tableau workbook file (`names_dashboards.twb`) containing the interactive dashboards.
-- `scripts/`: Contains the Python scripts used for scraping and cleaning the data.
-- `data_sources.md`: Provides details about the sources from which the data was collected.
-- `star_model_diagram.png`: [Replace this text with your star model diagram]
 
 ## License
 
