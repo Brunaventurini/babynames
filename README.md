@@ -18,7 +18,7 @@ The data went through a series of processing steps to prepare it for analysis an
 
 ## Star Model Diagram
 
-![Star Model Diagram](Baby's name.png)
+![Star Model Diagram](Babysname.png)
 
 ## Tableau Dashboards
 
